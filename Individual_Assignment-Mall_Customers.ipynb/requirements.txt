@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+StandardScaler
+silhouette_score
+KMeans
